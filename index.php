@@ -6,7 +6,7 @@ $myy=rand(1,4);
 echo'
 <style>
 body{
-  background-image: url(bg'. $myy.'.jpg);
+  background-image: url(www.amircf.ir/bg'. $myy.'.jpg);
 }
 </style>
 ';
@@ -21,7 +21,7 @@ body{
 <meta name="robots" content="index, follow" />
 <meta name="author" content="Amircf, Cheraghi.2007@outlook.com " />
 <meta name="keywords" content="Amircf , Amir hossein cheraghi , امیرحسین چراغی">
-<link rel="shortcut icon" type=image/x-icon href="./42199215921719.jpg" >
+<link rel="shortcut icon" type=image/x-icon href="http://www.amircf.ir/42199215921719.jpg" >
 
 </head>
 <body style="">
@@ -29,7 +29,7 @@ body{
 <div class="card" data-state="#about">
   <div class="card-header">
     <div class="card-cover" style="background-image: url('https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80')"></div>
-    <img class="card-avatar" src="./42199215921719.jpg" alt="avatar" />
+    <img class="card-avatar" src="http://www.amircf.ir/42199215921719.jpg" alt="avatar" />
     <h1 class="card-fullname">Amir hossein cheraghi</h1>
     <h2 class="card-jobtitle">web Developer</h2>
   </div>
